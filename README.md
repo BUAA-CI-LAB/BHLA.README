@@ -2,7 +2,7 @@
 
 北航龙架构处理器芯片敏捷设计框架由北航 2020 级五位本科生提出，致力于构建基于 LoongArch 32 Reduced 集成芯片敏捷开发平台，并完善相应软件生态，其子项目组织关系如下：
 
-* EuLA-Env：集成敏捷开发平台
+* [EuLA-Env](https://github.com/BUAA-CI-LAB/eula-env)：集成敏捷开发平台
 
   >  最初版本基于国科大果壳项目[Nutshell](https://github.com/OSCPU/NutShell)，重构仿真 SoC，并将处理器以黑盒形式嵌入仿真顶层，支持
   >
@@ -26,3 +26,4 @@
   * 纯 RTL 交付，不依赖 Xilinx Primitive，灵活支持不同平台
 * [u-boot](https://github.com/BUAA-CI-LAB/u-boot)：基于 [u-boot 主线](https://github.com/u-boot/u-boot) 向 LoongArch 32 Reduced 指令集架构移植
 * [Linux](https://github.com/BUAA-CI-LAB/linux)：最初版本源于 [la32r-Linux](https://gitee.com/loongson-edu/la32r-Linux)，现支持 MegaSoC 和 SMP 多核处理器启动
+* [Chiplab](https://github.com/BUAA-CI-LAB/chiplab): 最初版本源于 [Chiplab](https://gitee.com/loongson-edu/chiplab)，添加自由测试编写功能
