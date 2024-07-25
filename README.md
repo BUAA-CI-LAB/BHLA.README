@@ -27,3 +27,7 @@
 * [u-boot](https://github.com/BUAA-CI-LAB/u-boot)：基于 [u-boot 主线](https://github.com/u-boot/u-boot) 向 LoongArch 32 Reduced 指令集架构移植
 * [Linux](https://github.com/BUAA-CI-LAB/linux)：最初版本源于 [la32r-Linux](https://gitee.com/loongson-edu/la32r-Linux)，现支持 MegaSoC 和 SMP 多核处理器启动
 * [Chiplab](https://github.com/BUAA-CI-LAB/chiplab): 最初版本源于 [Chiplab](https://gitee.com/loongson-edu/chiplab)，添加自由测试编写功能
+
+## 培训/汇报资料罗列
+
+[20240724 龙芯杯全国大学生计算机系统能力培养大赛培训(第三场) PPT](report/20240725/20240725-BHLA-龙芯杯竞赛培训.pdf)
