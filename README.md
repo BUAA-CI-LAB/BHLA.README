@@ -14,6 +14,7 @@
 
   * [AM](https://github.com/BUAA-CI-LAB/am)：基于[南京大学 Abstract Machine](https://github.com/NJU-ProjectN/abstract-machine) 移植的 LoongArch 32 Reduced 裸机运行时环境
   * [EuLA Core](https://github.com/BUAA-CI-LAB/eulacore)：Chisel 实现的顺序单发射九级流水线处理器，完全基于 BHLA 开发，已通过流片验证，作为平台接入样例处理器
+     * [DiffTest](https://github.com/BUAA-CI-LAB/difftest) : 最初版本源于[XiangShan DiffTest](https://github.com/OpenXiangShan/difftest)
   * [Lain Core](https://github.com/LainChip/LainCore)：System Verilog 实现的顺序双发射流水线处理器，完全基于 BHLA 开发，已通过流片验证，可在龙芯提供的性能测试平台达到 140 MHz 主频
   * [GNU 工具链](https://github.com/BUAA-CI-LAB/la32r-toolchains)：LoongArch 32 Reduced 编译工具链，源于 [la32r-toolchains](https://gitee.com/loongson-edu/la32r-toolchains/releases)
   * [la32r-nemu](https://github.com/BUAA-CI-LAB/nemu)：最初版本源于 [wwt_panache](https://gitee.com/wwt_panache) 基于 [南京大学 nemu](https://github.com/NJU-ProjectN/nemu) 移植的 LoongArch 32 Reduced 单周期处理器仿真模拟器
