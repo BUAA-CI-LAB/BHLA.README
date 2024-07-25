@@ -1,6 +1,6 @@
 # 北航龙架构处理器芯片敏捷设计框架（BHLA）
 
-北航龙架构处理器芯片敏捷设计框架由北航 2020 级五位本科生共同开发，致力于构建基于 LoongArch 32 Reduced 的集成芯片敏捷开发平台，并完善相应软件生态，其子项目组织关系如下：
+北航龙架构处理器芯片敏捷设计框架由北航 2020 级五位本科生共同开发，他们分别是 [yufoo1](https://github.com/yufoo1)、[gmlayer0](https://github.com/gmlayer0)、[Guo-HY](https://github.com/Guo-HY)、[FvTao](https://github.com/FvTao)、[StyWang](https://github.com/StyWang)。该项目致力于构建基于 LoongArch 32 Reduced 的集成芯片敏捷开发平台，并完善相应软件生态，其子项目组织关系如下：
 
 * [EuLA-Env](https://github.com/BUAA-CI-LAB/eula-env)：集成敏捷开发平台
 
