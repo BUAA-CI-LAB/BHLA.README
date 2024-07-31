@@ -30,11 +30,15 @@
 
 ## 培训/汇报资料罗列
 
-[20240725 龙芯杯全国大学生计算机系统能力培养大赛培训(第三场) PPT](report/20240725/20240725-BHLA-龙芯杯竞赛培训.pdf)
+### 芯片展示
 
-[北航Lain/EULA芯片回片演示视频](https://www.bilibili.com/video/BV1VUe8eHEgn/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
+[2024.06 北航团队毕设Lain和EULA芯片回片展示视频（完整版）](https://www.bilibili.com/video/BV1VUe8eHEgn/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
 
-[2024北航团队毕设Lain和EULA芯片的回片展示视频（精简版）]( https://www.bilibili.com/video/BV1gXe8eUEfL/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
+[2024.06 北航团队毕设Lain和EULA芯片回片展示视频（精简版）]( https://www.bilibili.com/video/BV1gXe8eUEfL/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
 
-[北航龙芯杯培训：芯片敏捷开发框架及MegaSoc简介](https://www.bilibili.com/video/BV1gXe8eUEmd/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
+### 龙芯杯大赛培训
+
+[2024.07.25 龙芯杯全国大学生计算机系统能力培养大赛培训(第三场)：芯片敏捷开发框架及MegaSoc简介 录屏](https://www.bilibili.com/video/BV1gXe8eUEmd/?share_source=copy_web&vd_source=907467411b0109c89f03f80ee98e4706)
+
+[2024.07.25 龙芯杯全国大学生计算机系统能力培养大赛培训(第三场)：芯片敏捷开发框架及MegaSoc简介 PPT](report/20240725/20240725-BHLA-龙芯杯竞赛培训.pdf)
 
